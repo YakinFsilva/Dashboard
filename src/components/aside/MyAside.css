@@ -1,0 +1,132 @@
+.my-aside {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px !important;
+  padding: 20px;
+  width: 250px;
+<<<<<<< HEAD
+  background-color: #2C2B2B;
+=======
+  background-color: #1e1d1d;
+  border-radius: 20px;
+
+>>>>>>> ft-marcelo
+}
+
+
+.company-info {
+  text-align: center;
+}
+
+.company-logo {
+  background: black;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.company-name {
+  font-size: 1rem;
+  margin-top: 10px;
+  color: white
+}
+
+.profile-link,
+.logout,
+.info {
+  font-size: 2.5rem;
+}
+
+.filter-title {
+  font-size: 1.5rem;
+}
+
+/* label {
+  display: block;
+  font-size: 14px;
+  margin-top: 10px;
+  max-width: 100%;
+} */
+
+select {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+  border-radius: 4px;
+}
+
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.filters,
+i {
+  color: white;
+<<<<<<< HEAD
+=======
+}
+
+
+
+/* .my-aside {
+>>>>>>> ft-marcelo
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.company-info {
+  text-align: center;
+}
+
+.company-logo {
+  background: black;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.company-name {
+  font-size: 1rem;
+  margin-top: 10px;
+  color: white
+}
+
+.profile-link,
+.logout,
+.info {
+  font-size: 2.5rem;
+}
+
+.filter-title {
+  font-size: 1.5rem;
+}
+
+<<<<<<< HEAD
+i {
+  color: aliceblue;
+}
+
+.button{
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+=======
+label {
+  display: block;
+  font-size: 14px;
+  margin-top: 10px;
+  max-width: 100%;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  font-size: 14px;
+}
+ */
+>>>>>>> ft-marcelo
